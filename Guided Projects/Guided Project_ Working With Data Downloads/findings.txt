@@ -1,0 +1,14 @@
+Juvenile schools and magnet schools are both a small proportion of total schools.
+
+Magnet schools have large student bodies, on average (~800), whereas juvenile justice facilities have small student bodies (~62)
+
+There is a much lower percentage of the white race in this data than in the general population  (50 vs 73%), and a much high percentage of Hispanic. 
+
+
+Further exploration:
+- Review expulsions (which refers to when students are kicked out of school permanently). Columns like SCH_DISCWODIS_EXPWOE_HI_M and TOT_DISCWODIS_EXPZT_F contain information on expulsions.
+- Explore gender and race differences in SAT scores. Columns like SCH_SATACT_HI_M contain this information.
+- Figure out the racial and gender breakdowns for different types of schools, such as magnet schools.
+- Determine how many students are in gifted and talented programs, or advanced placement classes.
+- Investigate how racial differences in enrollment change from preschool to high school.
+- Explore school bullying. The SCH_HBDISCIPLINED_DIS_HI_M column contains some of this information.
